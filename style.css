@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: lightgreen;
+}
+
+
+.header{
+    position: relative;
+    border-radius: 10px;
+    top: 100px;
+    left: 500px;
+    width: 400px;
+    height: 300px;
+    background: white;
+}
+
+
+.cart{
+    border: 1px solid black  width:10px;
+}
